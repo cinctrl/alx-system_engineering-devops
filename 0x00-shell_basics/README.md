@@ -31,4 +31,5 @@
 
 		# The file betty is in /tmp/my_first_directory
 
-# Task 9:
+# Task 9: Bye bye my first directory
+	# Delete the directory my_first_directory that is in the /tmp directory.

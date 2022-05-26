@@ -57,6 +57,9 @@
 	# You can assume that the directory /tmp/u will exist when we will run your script 
 
 
-# Task 16:
+# Task 16:Clean Emacs
+	# Create a script that deletes all files in the current working directory that end with the character ~.
+
+# Task 17: 
 
 

@@ -25,4 +25,5 @@
 # Task 8: James Bond
 	# This does not add any permission to owner and group but adds rwx to others
 
-# task 9
+# Task 9: john doe
+	# This adds chmod 753 permission to hello

@@ -48,4 +48,8 @@
 	# This changes the group and owner of _hello file since it's a symolic i appended  -h options   
 
 # Task 16: if only 
-	# This changes the owner of file hello to betty only if it is owned by the user guilaume, i appended the --from=current user option 
+	# This changes the owner of file hello to betty only if it is owned by the user guilaume, i appended the --from=current user option
+
+# Task 17:Star Wars 
+	# This plays the starwars Iv episode in the terminal using telnet
+

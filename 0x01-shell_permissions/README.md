@@ -27,3 +27,8 @@
 
 # Task 9: john doe
 	# This adds chmod 753 permission to hello
+
+# Task 10: Look in the mirror
+	# This adds the mode of the file olleh to hello using the chmod --refrence=rfile file command
+
+# Task 11:

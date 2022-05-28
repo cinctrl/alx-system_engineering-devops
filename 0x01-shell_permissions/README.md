@@ -42,4 +42,7 @@
 
 
 # Task 14: Owner and group
-	# This changes the group and owner   
+	# This changes the group and owner
+
+# Task 15: Symbolic links
+	# This changes the group and owner of _hello file since it's a symolic i appended  -h options   

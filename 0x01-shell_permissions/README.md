@@ -14,4 +14,6 @@
 	# This creates an empty file called "hello" world using touch cmd
 
 # Task 5: Execute
-	#  
+	# This adds execute permision to the user using chmod U+X
+
+# Task 6:  

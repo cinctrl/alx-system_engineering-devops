@@ -17,4 +17,4 @@
 	# This adds execute permision to the user using chmod U+X
 
 # Task 6: Multiple permissions
-	# This adds execute permission to the owner and group owner and read permssions to other users , tom file hello using cmd chmod rwx rwx r  
+	# This adds execute permission to the owner and group owner and read permssions to other users , tom file hello using cmd chmod rwx-r-x-r  

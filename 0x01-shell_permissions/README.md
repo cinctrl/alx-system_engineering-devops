@@ -7,4 +7,5 @@
 # Task 2: Groups
 	# This prints all the groups the current user is part of
 
-# Task 3: 	
+# Task 3: New owner
+	# This changes the owner of the file "hello" to betty using chown 

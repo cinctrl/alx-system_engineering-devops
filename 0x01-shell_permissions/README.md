@@ -40,4 +40,6 @@
 # Task 13: Change group
 	# This Changes group owner of "hello" file to school
 
-# Task 14:  
+
+# Task 14: Owner and group
+	# This changes the group and owner   

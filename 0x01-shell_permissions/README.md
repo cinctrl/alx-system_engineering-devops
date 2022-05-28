@@ -46,3 +46,6 @@
 
 # Task 15: Symbolic links
 	# This changes the group and owner of _hello file since it's a symolic i appended  -h options   
+
+# Task 16: if only 
+	# This changes the owner of file hello to betty only if it is owned by the user guilaume, i appended the --from=current user option 

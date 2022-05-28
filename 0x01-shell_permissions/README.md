@@ -34,4 +34,7 @@
 # Task 11: Directories
 	# This adds execute permmision of a(ugo) to subdirectories of working directory and does not affect regualr files
 
-# Task 12: 
+# Task 12: More directories 
+	# This creates a directory using the mkdir --mode=MODE option
+
+# Task 13: 

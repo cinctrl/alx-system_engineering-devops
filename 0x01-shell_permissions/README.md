@@ -8,4 +8,10 @@
 	# This prints all the groups the current user is part of
 
 # Task 3: New owner
-	# This changes the owner of the file "hello" to betty using chown 
+	# This changes the owner of the file "hello" to betty using chown
+
+# Task 4: Empty
+	# This creates an empty file called "hello" world using touch cmd
+
+# Task 5: Execute
+	#  

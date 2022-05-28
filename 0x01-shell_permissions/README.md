@@ -18,3 +18,6 @@
 
 # Task 6: Multiple permissions
 	# This adds execute permission to the owner and group owner and read permssions to other users , tom file hello using cmd chmod rwx-r-x-r  
+
+# Task 7: Everybody 
+	# This adds execute permissions to the owner and other users, to file hello

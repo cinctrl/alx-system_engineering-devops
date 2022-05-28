@@ -21,3 +21,8 @@
 
 # Task 7: Everybody 
 	# This adds execute permissions to the owner and other users, to file hello
+
+# Task 8: James Bond
+	# This does not add any permission to owner and group but adds rwx to others
+
+# task 9

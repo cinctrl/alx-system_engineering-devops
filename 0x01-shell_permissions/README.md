@@ -31,4 +31,7 @@
 # Task 10: Look in the mirror
 	# This adds the mode of the file olleh to hello using the chmod --refrence=rfile file command
 
-# Task 11:
+# Task 11: Directories
+	# This adds execute permmision of a(ugo) to subdirectories of working directory and does not affect regualr files
+
+# Task 12: 

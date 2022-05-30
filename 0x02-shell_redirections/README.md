@@ -15,3 +15,9 @@
 
 # Task 5: I'd prefer the first ones actually 
 	# This display the first 10 line using the head -n 10 cmd
+
+# Task 6: Line #2
+	# This display the 3rd  line of the file by piping head -3(ehich displays the first three lines) and tail -1(which displays the last line)
+
+# Task  7:t is a good file that cuts iron without making a noise
+	# 

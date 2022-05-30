@@ -28,4 +28,9 @@ n
 # Task 9: Duplicate last line
 	# This copies and appends the last line of the file to the same file
 
-# Task 10:  
+# Task 10:
+
+# Task 11:
+
+# Task 12: What's new 
+	# This sorts the display of the newest file in the currrent directory by piping th head and ls with option time  

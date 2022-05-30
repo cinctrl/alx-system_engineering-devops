@@ -20,4 +20,7 @@
 	# This display the 3rd  line of the file by piping head -3(ehich displays the first three lines) and tail -1(which displays the last line)
 
 # Task  7:t is a good file that cuts iron without making a noise
-	# 
+	#
+
+# Task 8: Save current state of directory
+	This list all files(also hidden) in the current working directory using ls -la which  inputs it to the cat command, and  then prints and ouptut to the file 

@@ -11,4 +11,7 @@
 	# This displays the contents of /etc/passwd and /etc/hosts using cat
 
 # Task 4: last lines of a file 
-	#	
+	# This display the last line of /etc/passwd using tail cmd which as a default of -n => 10
+
+# Task 5: I'd prefer the first ones actually 
+	# This display the first 10 line using the head -n 10 cmd

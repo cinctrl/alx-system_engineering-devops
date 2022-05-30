@@ -23,4 +23,9 @@
 	#
 
 # Task 8: Save current state of directory
-	This list all files(also hidden) in the current working directory using ls -la which  inputs it to the cat command, and  then prints and ouptut to the file 
+	# This list all files(also hidden) in the current working directory using ls -la which  inputs it to the cat command, and  then prints and ouptut to the file
+n
+# Task 9: Duplicate last line
+	# This copies and appends the last line of the file to the same file
+
+# Task 10:  

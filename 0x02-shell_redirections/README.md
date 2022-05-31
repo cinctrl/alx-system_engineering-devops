@@ -33,4 +33,7 @@ n
 # Task 11:
 
 # Task 12: What's new 
-	# This sorts the display of the newest file in the currrent directory by piping th head and ls with option time  
+	# This sorts the display of the newest file in the currrent directory by piping th head and ls with option time
+
+# Task 13: Being unique is better that being perfect   
+	# This sort a list of words using uniq -u and sort cmd

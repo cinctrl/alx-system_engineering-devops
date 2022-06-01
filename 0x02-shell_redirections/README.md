@@ -1,39 +1,35 @@
-# Task 0: Hello world
-	# This prints Hello, World to the standard output using echo c,d"
+# Shell, I/O Redirections and filters
 
-# Task 1: Confused smiley
-	#  output "(Ôo)' to the terminal using echo and quotes
+Project done during **Full Stack Software Engineering studies** at **ALX Bootcamp**. It aims to learn about how to handle standard input and output and how to combine commands and filters with redirections in **Shell**.
 
-# Task 2: Let's display a file
-	# This displays the content of the /etc/passwd file using cat
+## Technologies
+* Scripts written in Bash 4.3.11(1)
+* Tested on ubuntu - LTS
 
-# Task 3: What about 2?
-	# This displays the contents of /etc/passwd and /etc/hosts using cat
+## Files
+All of the following files are scripts:
 
-# Task 4: last lines of a file 
-	# This display the last line of /etc/passwd using tail cmd which as a default of -n => 10
-
-# Task 5: I'd prefer the first ones actually 
-	# This display the first 10 line using the head -n 10 cmd
-
-# Task 6: Line #2
-	# This display the 3rd  line of the file by piping head -3(ehich displays the first three lines) and tail -1(which displays the last line)
-
-# Task  7:t is a good file that cuts iron without making a noise
-	# This print the txt best school in file "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)"
-
-# Task 8: Save current state of directory
-	# This list all files(also hidden) in the current working directory using ls -la which  inputs it to the cat command, and  then prints and ouptut to the file
-n
-# Task 9: Duplicate last line
-	# This copies and appends the last line of the file to the same file
-
-# Task 10:
-
-# Task 11:
-
-# Task 12: What's new 
-	# This sorts the display of the newest file in the currrent directory by piping th head and ls with option time
-
-# Task 13: Being unique is better that being perfect   
-	# This sort a list of words using uniq -u and sort cmd
+| Filename | Description |
+| -------- | ----------- |
+| `0-hello_world` | Prints "Hello, World", followed by a new line to the standard output |
+| `1-confused_smiley` | Displays a confused smiley `"(Ôo)'` |
+| `2-hellofile` | Displays the content of the `/etc/passwd`file |
+| `3-twofiles` | Displays the content of `/etc/passwd` and `/etc/hosts` |
+| `4-lastlines` | Displays the last 10 lines of `/etc/passwd` |
+| `5-firstlines` | Displays the first 10 lines of `/etc/passwd` |
+| `6-third_line` | Displays the third line of the file `iacta` |
+| `7-file` | Creates a file named exactly `\*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)` containing the test `Holberton School` ending by a new line |
+| `8-cwd_state` | Writes into the file `ls_cwd_content` the result of the command `ls -la`. |
+| `9-duplicate_last_line` | Duplicates the last line of the file `iacta` |
+| `10-no_more_js` | Deletes all the regular files with a `.js` extension that are present in the current directory and all its subfolders |
+| `11-directories` | Counts the number of directories and sub-directories in the current directory |
+| `12-newest_files` | Displays the 10 newest files in the current directory |
+| `13-unique` | Takes a list of words as input and prints only words that appear exactly once |
+| `14-findthatword` | Displayes lines containing the pattern "root" from the file `/etc/passwd` |
+| `15-countthatword` | Displays the number of lines that contain the pattern "bin" in the file `/etc/passwd` |
+| `16-whatsnext` | Displays lines containing the patter "root" and 3 lines after them in the file `/etc/passwd` |
+| `17-hidethisword` | Displays all the lines in the file `/etc/passwd` that do not contain the pattern "bin" |
+| `18-letteronly` | Displays all lines of the file `/etc/ssh/sshd_config` starting with a letter |
+| `19-AZ` | Replaces all characters `A` and `c` from input to `Z` and `e` respectively |
+| `20-hiago` | Removes all letters `c` and `C` from input |
+| `21-reverse` | Reverses its input |

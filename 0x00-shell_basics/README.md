@@ -50,7 +50,7 @@
 	This deletes all files ending with `~`
 
 # Task 18: 
-	This creates directories using `mkdir` command.
+	This creates directories using `mkdir -p` command.
 
 
 

@@ -44,7 +44,12 @@
 	This script copys  only  the SOURCE file that is newer than the  destination file or when the destination file is missing using the command `cp -u`
 
 # Task 16: Let's move
-	This script moves all files begining with an upperscase letter to dir /tmp/u
+	This script moves all files begining with an upperscase letter to dir `/tmp/u`
+
+# Task 17: Clean emacs
+	This deletes all files ending with `~`
+
+# Task 18:
 
 
 

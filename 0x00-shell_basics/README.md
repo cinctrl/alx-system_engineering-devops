@@ -10,4 +10,8 @@
 # Task 4: The long Format
 	This display the current directory using `ls -l` in long format
 
-# Task 5: Hidden files	
+# Task 5: Hidden files
+	This displays the hidden files in a long format using `ls -la`
+
+# Task 6: I love numbers
+		

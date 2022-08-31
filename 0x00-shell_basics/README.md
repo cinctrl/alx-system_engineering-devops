@@ -35,5 +35,7 @@
 	This list out all files plus hiiden one's in the cureent , parent and /boot dir `ls -la . .. /boot`
 
 # Task 13: File type
-	
+	This prints the file type using the `file` command.
+
+# Task 14:
 	 			

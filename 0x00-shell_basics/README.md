@@ -16,4 +16,8 @@
 # Task 6: I love numbers
 	Thsi displays the hidden files of the current working directory in long format with the users and group IDs dispalyed numerically using the code `ls -lna`	
 
-# Task 7: Welcome	
+# Task 7: Welcome
+	This scripts creates a folder using `mkdir` in the `/tmp/` folder.
+
+# Task 8: Betty in my first directory
+		

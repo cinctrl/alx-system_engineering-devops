@@ -28,4 +28,7 @@
 # Task 10: Bye bye My first directory
 	This script removes the dir by using the `rm -r` command.
 
-# Task 11: 			
+# Task 11: Back to the future 
+	This script changes the working dir to the previous one.
+
+# Task 12: Lists 			

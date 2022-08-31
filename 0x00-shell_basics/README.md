@@ -56,6 +56,7 @@
 	This list all directories and files ending `/  .` and should be ordered except for directories
 
 # Task 20: File type:school
+	Creating a magic file
 
 
 

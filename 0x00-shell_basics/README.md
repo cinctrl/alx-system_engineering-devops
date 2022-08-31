@@ -5,4 +5,6 @@
 	This displays the content of the current working folder using `ls`
 
 # Task 3: There is no place like home?
-	
+	This changes to home dir using `cd ~` command.
+
+# Task 4: The long Format	

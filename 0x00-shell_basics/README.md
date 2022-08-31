@@ -49,7 +49,8 @@
 # Task 17: Clean emacs
 	This deletes all files ending with `~`
 
-# Task 18:
+# Task 18: 
+	This creates directories using `mkdir` command.
 
 
 

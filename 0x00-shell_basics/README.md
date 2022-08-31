@@ -23,4 +23,7 @@
 	This moves betty file using  `mv /tmp/betty /tmp/my_first_directory`
 
 # Task 9: Bye bye Betty
+	This script deletes the betty file using `rm` command.
+
+# Task 10: Bye bye My first directory
 			

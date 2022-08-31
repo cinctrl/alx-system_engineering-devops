@@ -37,5 +37,8 @@
 # Task 13: File type
 	This prints the file type using the `file` command.
 
-# Task 14:
+# Task 14: We are symbols, and inhabit symbols
+	This scrpit creates a symbolic link using `ln -s` command.
+
+# Task 15:
 	 			

@@ -14,4 +14,6 @@
 	This displays the hidden files in a long format using `ls -la`
 
 # Task 6: I love numbers
-		
+	Thsi displays the hidden files of the current working directory in long format with the users and group IDs dispalyed numerically using the code `ls -lna`	
+
+# Task 7: Welcome	

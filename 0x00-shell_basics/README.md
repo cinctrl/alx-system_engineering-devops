@@ -31,4 +31,9 @@
 # Task 11: Back to the future 
 	This script changes the working dir to the previous one.
 
-# Task 12: Lists 			
+# Task 12: Lists
+	This list out all files plus hiiden one's in the cureent , parent and /boot dir `ls -la . .. /boot`
+
+# Task 13: File type
+	
+	 			

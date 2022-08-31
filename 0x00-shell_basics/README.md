@@ -26,4 +26,6 @@
 	This script deletes the betty file using `rm` command.
 
 # Task 10: Bye bye My first directory
-			
+	This script removes the dir by using the `rm -r` command.
+
+# Task 11: 			

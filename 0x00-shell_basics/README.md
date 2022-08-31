@@ -20,4 +20,7 @@
 	This scripts creates a folder using `mkdir` in the `/tmp/` folder.
 
 # Task 8: Betty in my first directory
-		
+	This moves betty file using  `mv /tmp/betty /tmp/my_first_directory`
+
+# Task 9: Bye bye Betty
+			

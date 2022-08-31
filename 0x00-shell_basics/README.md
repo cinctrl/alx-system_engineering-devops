@@ -43,6 +43,9 @@
 # Task 15: Copy html file
 	This script copys  only  the SOURCE file that is newer than the  destination file or when the destination file is missing using the command `cp -u`
 
+# Task 16: Let's move
+	This script moves all files begining with an upperscase letter to dir /tmp/u
+
 
 
 
